@@ -1,0 +1,1 @@
+All redirectional shell commands
